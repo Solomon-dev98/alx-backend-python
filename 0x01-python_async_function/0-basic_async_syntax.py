@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """ An example of basic async syntax in Pytho """
 import asyncio
 import random
