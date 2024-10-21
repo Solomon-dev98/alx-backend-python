@@ -1,4 +1,4 @@
-""""An example of basic async syntax in Python"""
+""" An example of basic async syntax in Pytho """
 import asyncio
 import random
 
