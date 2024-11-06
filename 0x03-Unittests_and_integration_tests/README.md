@@ -1,7 +1,6 @@
 # 0x03-Unittests_and_integration_tests
 
-
-![alt text](f088970b450e82c881ea.gif)
+![f088970b450e82c881ea](https://github.com/user-attachments/assets/7335bbf6-cea4-4787-8136-94b44c31ddc1)
 
 
 
